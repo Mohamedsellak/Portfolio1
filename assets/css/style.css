@@ -760,7 +760,7 @@ footer{
 .footer_title{
     /* font-size: var(--h3-font-size); */
     font-weight: var(--font-medium);
-    color: var(--title-color);
+    color: var(--container-color);
     margin-bottom: 1rem;
 }
 footer .social-icon,
@@ -774,7 +774,7 @@ footer .social-icon,
 footer .social-icon li a,
 .menu li a{
     font-size: var(--small-font-size);
-    color: var(--title-color);
+    color: var(--container-color);
     margin: 0 10px;
     display: inline-block;
     transition: .5s;
@@ -787,7 +787,7 @@ footer .menu li a:hover{
     transform: scale(1.1);
 }
 footer p {
-    color: var(--title-color);
+    color: var(--container-color);
     text-align: center;
     margin-top: 2.2rem;
     margin-bottom: 5rem;
