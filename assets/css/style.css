@@ -787,7 +787,7 @@ footer .menu li a:hover{
     transform: scale(1.1);
 }
 footer p {
-    color: var(--container-color);
+    color: var(--title-color);
     text-align: center;
     margin-top: 2.2rem;
     margin-bottom: 5rem;
@@ -1044,12 +1044,3 @@ footer .wave#wave4{
         column-gap: 6rem;
     }
 }
-
-
-
-
-
-
-
-
-
