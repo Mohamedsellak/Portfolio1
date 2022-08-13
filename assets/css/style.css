@@ -787,7 +787,7 @@ footer .menu li a:hover{
     transform: scale(1.1);
 }
 footer p {
-    color: var(--title-color);
+    color: var(--container-color;
     text-align: center;
     margin-top: 2.2rem;
     margin-bottom: 5rem;
